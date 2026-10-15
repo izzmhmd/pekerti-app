@@ -1,4 +1,4 @@
-# 🌾 PEKERTI App (SI-PEKERTI)
+# 🌾 SI-PEKERTI: Sistem Informasi Pemantauan Kekeringan Terintegrasi
 ### Integrated Agricultural Drought Monitoring Application Using Google Earth Engine
 
 <p align="left">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-**PEKERTI App (SI-PEKERTI)** is an interactive, cloud computing-based WebGIS application developed on **Google Earth Engine (GEE)**. Designed for smart agricultural disaster mitigation, it provides automated monitoring, analysis, and spatial mapping of agricultural drought conditions across Indonesian administrative regions without requiring complex offline remote sensing workflows.
+**SI-PEKERTI** is an interactive, cloud computing-based WebGIS application developed on **Google Earth Engine (GEE)**. Designed for smart agricultural disaster mitigation, it provides automated monitoring, analysis, and spatial mapping of agricultural drought conditions across Indonesian administrative regions without requiring complex offline remote sensing workflows.
 
 ---
 
